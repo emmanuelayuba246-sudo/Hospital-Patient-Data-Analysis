@@ -1,4 +1,5 @@
 # Hospital-Patient-Data-Analysis
+![Dashboard](db.png)
 
 ## Project Preview
 This analysis was conducted to identify common medical conditions, understand patient demographics, and uncover healthcare trends that can support better decision-making, resource allocation, and improved patient care. 
